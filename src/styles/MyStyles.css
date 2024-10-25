@@ -1,0 +1,15 @@
+.autoFlex {
+  flex: .2 0 auto;
+}
+/* ai jaiga ta voice kore bole dian to ar flex-shrik ki */
+
+/* 
+Shrink orthath soto ba narrow houa bujhay.
+amra responsive design e screen soto korle design soto hobena tai shrink 0 disi, r boro hobe tai  basis-auto eta browser thik korbe kokhon koto tuku lagbe. but max 120% ba *0.2 besi boro hobe. orthat 1 thakle 1.2 hobe max er besi basis pabena. 2 thakle 2.4 evabe.... bujci
+okay. aro kono problem ache?
+na 
+okay bhai tahole complete koren. 
+ok
+gelam ami. Allah hafez
+ a
+*/
